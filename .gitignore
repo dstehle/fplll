@@ -1,6 +1,9 @@
 *.la
 *.lo
 *.trs
+*.obj
+*.exe
+*.log
 .deps
 .libs
 Makefile
